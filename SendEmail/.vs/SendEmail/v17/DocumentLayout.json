@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\sendemail\\sendemail\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|solutionrelative:sendemail\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\sendemail\\sendemail\\repositories\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|solutionrelative:sendemail\\repositories\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\sendemail\\sendemail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|solutionrelative:sendemail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\sendemail\\sendemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558F9A81-8892-4717-A2C3-29BCE64B1750}|SendEmail\\SendEmail.csproj|solutionrelative:sendemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\appsettings.json",
+              "RelativeDocumentMoniker": "SendEmail\\appsettings.json",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\appsettings.json",
+              "RelativeToolTip": "SendEmail\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T16:58:55.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\Program.cs",
+              "RelativeDocumentMoniker": "SendEmail\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\Program.cs",
+              "RelativeToolTip": "SendEmail\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:16:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\Repositories\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SendEmail\\Repositories\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\Repositories\\EmailSender.cs",
+              "RelativeToolTip": "SendEmail\\Repositories\\EmailSender.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:10:34.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "SendEmail\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\SendEmail\\SendEmail\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "SendEmail\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwBYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:31:04.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
